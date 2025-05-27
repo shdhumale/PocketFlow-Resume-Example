@@ -1,0 +1,3 @@
+User One
+Skills: Python, SQL, Tableau, data science
+Experience: 3 years in data analytics
